@@ -4,4 +4,3 @@ if n*a <= b:
     print(n*a)
 else:
     print(b)
-    
